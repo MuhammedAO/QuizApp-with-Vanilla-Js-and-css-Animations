@@ -1,0 +1,32 @@
+[
+    {
+     "question" : "Who designed the Nigerian national flag? ",
+     "choice1" : "Nnamdi Azikiwe",
+     "choice2" : "Alhaji Tafa Balewa",
+     "choice3": "Micheal Taiwo Akinkunmi",
+     "choice4": "Micheal Kehinde Akinkunmi",
+     "answer" : "3"
+    },
+
+    {
+        "question" : "King of Afro Beats Fela Anikulapo Kuti died on what day?",
+        "choice1" : "1 July 1998",
+        "choice2" : "2 August 1997",
+        "choice3": "3 September 1996",
+        "choice4": "4 Ocotber 1995",
+        "answer" : "2"
+    },
+
+    {
+        "question" : "Which of the following countries do not belong in the western part of africa",
+        "choice1" : "Ghana, Nigeria",
+        "choice2" : "Tanzania, Kenya",
+        "choice3": "Ethiopia, Cameroon",
+        "choice4": "South-Africa, Gabon",
+        "answer" : "2"
+    }
+    
+
+    
+
+]
